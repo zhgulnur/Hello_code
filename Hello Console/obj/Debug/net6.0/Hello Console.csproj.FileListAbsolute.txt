@@ -1,0 +1,15 @@
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/bin/Debug/net6.0/Hello Console
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/bin/Debug/net6.0/Hello Console.deps.json
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/bin/Debug/net6.0/Hello Console.runtimeconfig.json
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/bin/Debug/net6.0/Hello Console.dll
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/bin/Debug/net6.0/Hello Console.pdb
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/obj/Debug/net6.0/Hello Console.csproj.AssemblyReference.cache
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/obj/Debug/net6.0/Hello Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/obj/Debug/net6.0/Hello Console.AssemblyInfoInputs.cache
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/obj/Debug/net6.0/Hello Console.AssemblyInfo.cs
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/obj/Debug/net6.0/Hello Console.csproj.CoreCompileInputs.cache
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/obj/Debug/net6.0/Hello Console.dll
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/obj/Debug/net6.0/refint/Hello Console.dll
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/obj/Debug/net6.0/Hello Console.pdb
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/obj/Debug/net6.0/Hello Console.genruntimeconfig.cache
+/Users/zhgulnur_97icloud.com/Desktop/Geek Brains/1 четверть/Знакомство с языками прошграммирования/Lecture1_examples/Hello Console/obj/Debug/net6.0/ref/Hello Console.dll
